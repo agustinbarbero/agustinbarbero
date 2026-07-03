@@ -3,9 +3,14 @@
 ### Full Stack Developer & Web Programmer
 <strong>Associate Degree in Computer Programming – UTN FRBB<strong>
 
-📍 Buenos Aires, Argentina
 
-I build custom websites, e-commerce platforms, and dedicated software solutions for businesses. I have experience deploying multiple applications to production and architecting robust, optimized backend systems. Currently, I am working on developing a fully custom e-commerce application and a specialized system designed to automate processes for a large company.
+📍 Buenos Aires, Argentina
+<br>
+
+I build custom websites, e-commerce platforms, and dedicated software solutions for businesses. I have experience deploying multiple applications to production and architecting robust, optimized backend systems. 
+<br><br>Currently, I am working on developing a fully custom e-commerce application and a specialized system designed to automate processes for a large company.
+
+<br>
 
 🗣️ **Languages:** Spanish (Native) | English (B2+) | Portuguese (Learning)
 
