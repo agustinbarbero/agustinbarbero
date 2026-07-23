@@ -1,6 +1,6 @@
 # Hi, I'm Agustin Barbero 👋
 
-### Full Stack Developer & Web Programmer
+### Full Stack Developer
 <strong>Associate Degree in Computer Programming – UTN FRBB<strong>
 
 
