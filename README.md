@@ -18,7 +18,7 @@ I build custom websites, e-commerce platforms, and dedicated software solutions 
 
 ## 🛠️ Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,python,cpp,react,next,express,postgres,supabase,mongodb,sqlite,tailwind,html,css,git,github,docker,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,python,cpp,react,next,express,postgres,supabase,mongodb,sqlite,prisma,tailwind,html,css,git,github,docker,postman)](https://skillicons.dev)
 
 ---
 
